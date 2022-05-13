@@ -1,2 +1,37 @@
-# M3_WiperControlSystem
+# Requirements
+## Softwares
+The below tools and packages are needed to work with STM32 Controllers with Qemu Support
+* Installable
+* GNU Toolchain
+* STM Cube IDE
+
+## Downloadable
+* Xpack Packages
+* Windows Build Tools
+* Open OCD
+* Qemu
+
+# The 4W's and a H
+## WHAT
+It is the controlling of car wiper system using the STM32.
+## WHY
+The main objective of this project is to control the car wiper system in the car by using the LED.
+## WHO
+It is used in the car or any other automobiles.
+## WHERE
+This project is mainly comes in use of Automobile industries.
+## HOW
+This project is implemented using "Embedded C Program" based on Arm based microcontroller.
+
+# SWOT ANALYSIS OF THE PROJECT
+## STRENGTHS:
+* Easily Operating.
+* Platfrom Independant.
+## WEAKNESS:
+* Controlling using WEB.
+## opportunities
+* Technology maturity may reduce system cost.
+## Threats 
+* cost 
+* MTM delayed adaption.
  
