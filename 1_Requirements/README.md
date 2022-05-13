@@ -1,11 +1,11 @@
-# Requirements
-## Softwares
+# REQUIREMENTS
+## SOFTWARES
 The below tools and packages are needed to work with STM32 Controllers with Qemu Support
 * Installable
 * GNU Toolchain
 * STM Cube IDE
 
-## Downloadable
+## DOWNLOADABLES
 * Xpack Packages
 * Windows Build Tools
 * Open OCD
@@ -29,9 +29,9 @@ This project is implemented using "Embedded C Program" based on Arm based microc
 * Platfrom Independant.
 ## WEAKNESS:
 * Controlling using WEB.
-## opportunities
+## OPPORTUNITIES:
 * Technology maturity may reduce system cost.
-## Threats 
+## THREATS:
 * cost 
 * MTM delayed adaption.
  
