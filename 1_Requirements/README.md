@@ -36,3 +36,6 @@ This project is implemented using "Embedded C Program" based on Arm based microc
 * cost 
 * MTM delayed adaption.
  
+| ID | Description | Status |
+| -- | ----------- | ------ |
+| HLR 1 | ULN2803 driver | Implemented | 
